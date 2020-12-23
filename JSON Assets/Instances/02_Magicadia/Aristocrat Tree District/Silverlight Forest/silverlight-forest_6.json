@@ -1,0 +1,39 @@
+{
+    "nameID": "instance_silverlight_forest",
+    "geographyName": "silverlight_forest_6",
+    "province": "Magicadia",
+    "district": "AristocratTreeDistrict",
+    "area": "SilverlightForest",
+    "instanceCoordinates": {
+        "xPos": 1,
+        "yPos": 0,
+        "zPos": 0
+    },
+    "isHostile": true,
+    "loadingZones": [
+        {
+            "instanceJSONFileName": "02_Magicadia/Aristocrat Tree District/Silverlight Forest/silverlight-forest_2.json",
+            "loadingZonePosition": {
+                "xPos": 39,
+                "yPos": -3,
+                "zPos": 4
+            },
+            "playerUnitSpawnPosition": {
+                "xPos": 0,
+                "yPos": 0,
+                "zPos": 1
+            }
+        }
+    ],
+    "weather": [
+        {
+
+        }
+    ],
+    "unitSpawners": [],
+    "eventMarkers": [
+        {
+
+        }
+    ]
+}

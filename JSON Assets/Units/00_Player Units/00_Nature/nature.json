@@ -17,6 +17,8 @@
     "magicalDefenseScaling": 3,
     "speedScaling": 2.67,
     "staggerThresholdScaling": 3.33,
+    "expYield": 0,
+    "dropTable": [],
     "skills": [
         {
             "skillJSONFileName": "00_Player Units/00_Nature/Skills/Primary/00_air-ball.json",

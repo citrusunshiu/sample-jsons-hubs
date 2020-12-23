@@ -15,7 +15,7 @@
     "cooldown": 1,
     "hits": [
         {
-            "nameID": "skill_test_skill_hit_first_Hit",
+            "nameID": "skill_test_skill_hit_first_hit",
             "damageModifier": 100,
             "aggroModifier": 1,
             "attributes": [
@@ -62,13 +62,13 @@
                     "startFrame": 50,
 					"delayFrames": 50,
                     "lingerFrames": 5,
+                    "hitIndex": 1,
                     "hitboxes": [
                         {
                             "xPos": 1,
                             "yPos": 1
                         }
-                    ],
-                    "hitIndex": 1
+                    ]
                 }
             ]
         }

@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using YuguLibrary.Enumerations;
 using YuguLibrary.Models;
 
 public class SkillHub : Skill
@@ -14,16 +15,20 @@ public class SkillHub : Skill
     #region Test Skill
     private void TestSkill()
     {
-        Debug.Log("Skill:TestSkill running");
+        Debug.Log("SkillHub:TestSkill");
     }
 
     private void TestSkillLogic()
     {
-        Debug.Log("Skill:TestSkillLogic running");
+        Debug.Log("SkillHub:TestSkillLogic");
     }
     #endregion
 
-
+    private void AirBall()
+    {
+        Debug.Log("SkillHub:AirBall");
+        LaunchProjectile(skillChoreographies[0], skillChoreographies[1], 5, 4);
+    }
 
     #endregion
 }

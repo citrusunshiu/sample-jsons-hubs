@@ -1,0 +1,14 @@
+{
+    "nameID": "skill_rising_twister",
+    "summaryID": "",
+    "descriptionID": "",
+    "iconFileName": "",
+    "targetType": "",
+    "encounterSkillType": "",
+    "aiSkillCategory": "",
+    "costs": [],
+    "cooldown": 0,
+    "hits": [],
+    "skillChoreographies": [],
+    "skillFunctionName": ""
+}

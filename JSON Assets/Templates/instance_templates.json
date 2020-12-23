@@ -1,0 +1,55 @@
+{
+    "instance": 
+    {
+        "nameID": "",
+        "geographyName": "",
+        "province": "",
+        "district": "",
+        "area": "",
+        "instanceCoordinates": {
+            "xPos": 0,
+            "yPos": 0,
+            "zPos": 0
+        },
+        "isHostile": true,
+        "loadingZones": [
+            {
+                "instanceJSONFileName": "02_Magicadia/Aristocrat Tree District/Silverlight Forest/silverlight-forest_2.json",
+                "loadingZonePosition": {
+                    "xPos": 20,
+                    "yPos": -2,
+                    "zPos": 3
+                },
+                "playerUnitSpawnPosition": {
+                    "xPos": 0,
+                    "yPos": 0,
+                    "zPos": 1
+                }
+            }
+        ],
+        "weather": [
+            {
+    
+            }
+        ],
+        "unitSpawners": [
+            {
+                "unitJSONFileName": "",
+                "maxUnits": "",
+                "areaOfEffect": {
+                    "xPos": 15,
+                    "yPos": 1,
+                    "zPos": 1,
+                    "radius": 5
+                },
+                "unitLevel": 50,
+                "unitSpawnTime": 60
+            }
+        ],
+        "eventMarkers": [
+            {
+    
+            }
+        ]
+    }
+}

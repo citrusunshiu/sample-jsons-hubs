@@ -1,0 +1,29 @@
+{
+   "unit": 
+   {
+       "nameID": "",
+       "animationScriptJSONFileName": "",
+       "role": "",
+       "classification": "",
+       "speedTier": "",
+       "baseMovementFrames": 0,
+       "baseDescentFrames": 0,
+       "baseAscentFrames": 0,
+       "skillResources": [],
+       "hpScaling": 0,
+       "mpScaling": 0,
+       "mpRegenScaling": 0,
+       "physicalAttackScaling": 0,
+       "magicalAttackScaling": 0,
+       "physicalDefenseScaling": 0,
+       "magicalDefenseScaling": 0,
+       "speedScaling": 0,
+       "staggerThresholdScaling": 0,
+       "expYield": 0,
+       "dropTable": [],
+       "skills": [],
+       "actions": [],
+       "unitAIs": [],
+       "unitAIFunctionName": ""
+   }
+}

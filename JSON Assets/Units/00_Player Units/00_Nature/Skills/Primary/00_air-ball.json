@@ -1,7 +1,7 @@
 {
     "nameID": "skill_air_ball",
     "summaryID": "skill_air_ball_summary",
-    "descriptionID": "skill_air_ball_description",
+    "descriptionID": "skill_none_description",
     "iconFileName": "",
     "targetType": "Enemy",
     "encounterSkillType": "Primary",
@@ -70,7 +70,7 @@
                 {
                     "indicatorStartFrame": 0,
                     "activationFrame": 0,
-                    "lingerFrames": 0,
+                    "lingerFrames": 5,
                     "hitboxes": [
                         {
                             "xPos": 1,
@@ -82,8 +82,8 @@
                 },
                 {
                     "indicatorStartFrame": 0,
-                    "activationFrame": 0,
-                    "lingerFrames": 0,
+                    "activationFrame": 15,
+                    "lingerFrames": 5,
                     "hitboxes": [
                         {
                             "xPos": 1,
@@ -95,8 +95,8 @@
                 },
                 {
                     "indicatorStartFrame": 0,
-                    "activationFrame": 0,
-                    "lingerFrames": 0,
+                    "activationFrame": 30,
+                    "lingerFrames": 5,
                     "hitboxes": [
                         {
                             "xPos": 1,
@@ -109,5 +109,5 @@
             ]
         }
     ],
-    "skillFunctionName": ""
+    "skillFunctionName": "AirBall"
 }
